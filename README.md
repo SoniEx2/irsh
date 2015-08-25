@@ -1,0 +1,2 @@
+# irsh
+Internet Relay Shell
